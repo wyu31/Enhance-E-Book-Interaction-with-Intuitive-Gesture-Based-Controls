@@ -48,7 +48,7 @@ The gap between train and validation is an artifact of how they're measured, not
 
 Real frames side-by-side with predicted vs. true labels:
 
-![Subset of test images with predicted and true labels](assets/predictions.jpeg)
+![Subset of test images with predicted and true labels](assets/predictions2.jpeg)
 
 Per-class F1 scores range from 0.85 to 0.96. The confusion matrix shows a crisp diagonal, with two asymmetries worth noting:
 
